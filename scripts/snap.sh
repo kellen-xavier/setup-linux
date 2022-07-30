@@ -1,6 +1,5 @@
 #!/bin/bash
 ##instala pacotes snap##
-sudo snap install\
 beekeeper-studio\
 docker\
 dbeaver-ce\
