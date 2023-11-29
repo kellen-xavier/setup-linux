@@ -1,7 +1,6 @@
 #!/bin/bash
 ##instala pacotes snap##
 beekeeper-studio\
-docker\
 dbeaver-ce\
 flameshot\
 insomnia\
